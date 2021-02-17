@@ -18,4 +18,8 @@ https://genesifter.research.sickkids.ca/gsle/OM/orderList
 3.select all chromatograms and then download chromats
 4.Drag and drop the file to geneious
 5.analyze data
+6.remove bad sequences
+7.select F and R sequences one by one and align-> pairvise align -> geneious alignment-> tick automatically determine direction ->pk
+8.do that for all pairs
+9.then de novo assemble the sequences from the same range together
 ```
