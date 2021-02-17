@@ -15,7 +15,9 @@ when the results are ready,
 https://genesifter.research.sickkids.ca/gsle/OM/orderList
 ```
 
+```text
 2.Then select the order 
 3.select all chromatograms and then download chromats
 4.Drag and drop the file to geneious
 5.analyze data
+```
