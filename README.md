@@ -10,12 +10,10 @@ Key points
 ```
 
 when the results are ready,
-1.go to
-```
-https://genesifter.research.sickkids.ca/gsle/OM/orderList
-```
 
 ```text
+1.go to
+https://genesifter.research.sickkids.ca/gsle/OM/orderList
 2.Then select the order 
 3.select all chromatograms and then download chromats
 4.Drag and drop the file to geneious
